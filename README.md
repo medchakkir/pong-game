@@ -15,6 +15,7 @@ A classic Pong game implementation built with Python and Pygame. This project re
 ## Requirements
 
 - Python 3.x
+- Turtle graphics (built into Python standard library)
 
 ## Installation
 
@@ -50,6 +51,13 @@ python main.py
 - P: Pause game
 - R: Restart game
 - ESC: Quit game
+
+## Project Structure
+
+- `main.py`: Main game loop and initialization
+- `paddle.py`: Paddle class implementation
+- `ball.py`: Ball class implementation
+- `scoreboard.py`: Score tracking and display
 
 ## Contributing
 
