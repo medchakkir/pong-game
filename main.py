@@ -33,6 +33,7 @@ def restart_game():
 
 def quit_game():
     global is_on
+    screen.bye()  # Close the turtle graphics window
     is_on = False
 
 screen.listen()
