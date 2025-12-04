@@ -22,7 +22,7 @@ A classic Pong game implementation built with Python and Turtle. This project re
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/pong-game.git
+git clone https://github.com/<username>/pong-game.git
 cd pong-game
 ```
 
