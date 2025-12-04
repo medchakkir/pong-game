@@ -1,6 +1,6 @@
 # Pong Game
 
-A classic Pong game implementation built with Python and Pygame. This project recreates the iconic arcade game with modern features and smooth gameplay.
+A classic Pong game implementation built with Python and Turtle. This project recreates the iconic arcade game with modern features and smooth gameplay.
 
 ## Features
 
